@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lista de jogos indie</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+  <main class="panel">
+    <nav class="nav-topo">
+      <a href="../index.html" class="btn-nav">Voltar</a>
+      <a href="pag5.html" class="btn-nav">Próximo</a>
+    </nav>
+    <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+      <h2 class="titulo"><b>Outros Jogos</b></h2>
+      <ul>
+      <li class="subtitulo"><i>Hollow Knight</i></li>
+      </ul>
+        <p class="subtitulo">Hollow Knight é um jogo de ação e aventura em estilo metroidvania, ambientado no mundo sombrio e misterioso de Hallownest, um antigo reino subterrâneo habitado por insetos. A história gira em torno de um cavaleiro sem nome (o protagonista), que explora ruínas esquecidas, enfrenta criaturas corrompidas e descobre os segredos por trás de uma infecção que tomou conta do reino. O enredo é contado de forma sutil e fragmentada, incentivando o jogador a montar a narrativa por meio da exploração e diálogos enigmáticos. O Cavaleiro descobre sua ligação com o Vazio, uma substância sombria usada na tentativa de conter a infecção, e deve enfrentar o Hollow Knight original, selado como receptáculo do mal que assola Hallownest.</p>
+        <img src="../imagens/hollow-knight.gif" alt="hollow knight" style="width: 50%";>
+        <br>
+        <br>
+        <ul>
+        <li class="subtitulo"><i>Hollow Knight: Silksong</i></li>
+        </ul>
+        <p class="subtitulo">Hollow Knight: Silksong é a aguardada sequência de Hollow Knight, desta vez protagonizada por Hornet, a princesa-protetora de Hallownest. Após ser capturada e levada para um novo reino chamado Pharloom, Hornet precisa escalar até o topo dessa terra misteriosa enquanto enfrenta novos inimigos, chefes desafiadores e descobre os segredos por trás do local e de seu próprio passado. Diferente do Cavaleiro, Hornet fala, tem uma personalidade mais ativa e seu estilo de combate é mais ágil e acrobático. A história promete explorar temas como sacrifício, liderança e redenção, ampliando o universo sombrio e enigmático iniciado no primeiro jogo.</p>
+        <img src="../imagens/hollow-knight-hollow-knight-silksong.gif" alt="hollow knight" style="width: 50%";>
+        <br>
+        <br>
+         <ul>
+        <li class="subtitulo"><i>Omori</i></li>
+        </ul>
+        <p class="subtitulo">O jogo de RPG psicológico OMORI segue a jornada de Sunny, um garoto recluso que se esconde em seu vívido mundo de sonhos, o Headspace, para escapar de um trauma. Nesse lugar onírico, ele vive aventuras fantásticas com seus amigos de infância, mas o jogo alterna entre esse universo colorido e a realidade sombria de sua cidade, revelando a verdade por trás da morte de sua irmã, Mari, e o segredo que ele e seus amigos guardam. A lore do jogo é uma poderosa alegoria sobre a depressão, o luto e a amizade, com uma narrativa que se aprofunda nos temas de trauma e culpa. Entre as curiosidades, está o fato de que o jogo foi criado pela artista OMOCAT e esteve em desenvolvimento por quase uma década, crescendo a partir de um webcomic, e seu estilo de arte único alterna entre o pixel art cutesy do Headspace e o traço inquietante a lápis do mundo real para refletir o estado emocional do protagonista.</p>
+        <img src="../imagens/omori.gif" alt="omori" style="width: 50%";>
+        <br>
+        <br>
+        <ul>
+        <li class="subtitulo"><i>Coffee Talk</i></li>
+        </ul>
+        <p class="subtitulo">Coffee Talk é um jogo de simulação narrativa ambientado em uma versão alternativa de Seattle, onde humanos, elfos, orcs, súcubos e outras criaturas fantásticas coexistem no mundo moderno. O jogador assume o papel de um barista noturno em uma pequena cafeteria chamada Coffee Talk, que serve como ponto de encontro para clientes com histórias únicas e pessoais. Em vez de ação ou combate, o foco do jogo está em ouvir os problemas dos clientes, preparar bebidas que combinem com seu humor e acompanhar seus dilemas emocionais, como amores proibidos, crises existenciais, conflitos culturais e pressões sociais. A atmosfera calma, com estética pixel art e trilha sonora lo-fi, cria um ambiente acolhedor para histórias tocantes e humanas mesmo quando contadas por seres fantásticos.</p>
+        <img src="../imagens/f850dcd82f912afef154091a0dd9e0a507f67ce2.gif" alt="coffee talk" style="width: 50%";> 
+        <br>
+        <br>
+        <ul>
+        <li class="subtitulo"><i>Enigma do Medo</i></li>
+        </ul>
+        <p class="subtitulo">Enigma do Medo (ou Ordem Paranormal: Enigma do Medo) foi desenvolvido por Rafael “Cellbit” Lange em parceria com a Dumativa Game Studio. Seu anúncio oficial veio em 17 de outubro de 2020, com uma campanha de financiamento coletivo no Catarse que tinha meta inicial de R$ 500 mil valor atingido em apenas cinco horas. Ao final, a arrecadação superou R$ 4 milhões, tornando-se o maior recorde para um jogo no Catarse e um marco na cena dos games nacionais. A trama acompanha Mia Veríssimo, uma investigadora paranormal em busca do desaparecido Senhor Veríssimo, seu pai e líder da "Ordo Realitas". Ela explora o enigmático “Perímetro” um local peculiar dito “que não existe” acompanhada por seu fiel cão Lupi. 
+          <br>
+          <br>
+          Durante sua investigação, Mia encara o sombrio Culto do Medo, criaturas sobrenaturais e mistérios aterradores, tudo ambientado em uma mansão sinistra ligada à família Strach.
+          <br>
+          <br>
+          O estilo visual combina pixel art com cenários tridimensionais desenhados à mão, resultando em atmosferas densas com iluminação dinâmica. Isso cria uma estética visual marcante e envolvente, perfeita para um thriller psicológico. O jogo também se destaca pela trilha sonora responsiva e pela dublagem brasileira de altíssima qualidade com nomes como Pamella Rodrigues (Mia), Guilherme Briggs (Senhor Veríssimo), Wendel Bezerra e Karen Padrão, elevando sua imersão.
+          <br>
+          <br>
+          Lançado em 28 de novembro de 2024, para PC via plataformas como Steam e Nuuvem, Enigma do Medo foi recebido com entusiasmo pela comunidade e conquistou uma forte base de fãs. É considerado um marco da indústria indie brasileira, não só por seu sucesso financeiro, mas também por elevar o padrão de produção e narrativa em jogos nacionais. Críticas destacaram sua atmosfera sombria e narrativa envolvente, apesar de alguns apontarem falhas de performance e polimento técnico.
+        </p>
+        <img src="../imagens/c73d5zw36ut51.gif" alt="enigma do medo" style="width: 50%";> 
+      </ul>
+      <ul>
+        <br>
+        <li class="subtitulo"><i>Faith</i></li>
+        </ul>
+        <p class="subtitulo">O jogo FAITH: The Unholy Trinity é uma experiência de terror que mergulha o jogador na década de 80, acompanhando a jornada do Padre John, um jovem exorcista. Sua história começa em uma cabana isolada de Connecticut, onde ele retorna após um exorcismo que deu terrivelmente errado, apenas para encontrar um mal ainda maior. A lore do jogo vai além do clássico exorcismo, explorando temas como o pânico satânico da época, cultos secretos e um confronto pessoal com a "Trindade Profana" – entidades demoníacas que se opõem à santidade. Uma das curiosidades mais marcantes é seu estilo visual único: apesar dos gráficos de 8-bit, ele utiliza rotoscopia (a técnica de animar quadro a quadro a partir de filmagens reais) para criar as animações de movimento e ataques dos inimigos, resultando em um contraste bizarro e assustador. Complementando a atmosfera, as vozes sintetizadas e os efeitos sonoros distorcidos criam um terror palpável, tornando FAITH uma jornada sombria de fé, perigo e o confronto final com a corrupção do sagrado.</p>
+        <img src="../imagens/FAITH.gif.gif" alt="faith" style="width: 50%";> 
+        <br>
+        <br>
+      </ul>
+      <footer>
+        <p class="titulo">© 2025</p>
+  <img src="../imagens/cats-camping-circle.gif" alt="cats" class="gif-footer">
+      </footer>
+    </div>
+  </main>
+</body>
