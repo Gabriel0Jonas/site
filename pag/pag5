@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Site Hobbies</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+  <main class="panel">
+    
+    <nav class="nav-topo">
+      <a href="pag4.html" class="btn-nav">Voltar</a>
+      <a href="pag2.html" class="btn-nav">Próximo</a>
+      </nav>
+
+    <h2 class="titulo">Comparação: Deltarune vs Celeste</h2>
+    <table class="subtitulo">
+      <thead>
+        <tr>
+          <th>Aspecto</th>
+          <th>Deltarune</th>
+          <th>Celeste</th>
+          <th>Semelhanças</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Gameplay</td>
+          <td>RPG com batalhas em turnos e opções pacifistas.</td>
+          <td>Plataforma desafiador com foco em precisão.</td>
+          <td>Ambos exigem atenção, estratégia e domínio do jogador.</td>
+        </tr>
+        <tr>
+          <td>História</td>
+          <td>Mistura de comédia, mistério e temas existenciais.</td>
+          <td>Narrativa sobre superação, saúde mental e autodescoberta.</td>
+          <td>Histórias emocionais com mensagens profundas.</td>
+        </tr>
+        <tr>
+          <td>Atmosfera</td>
+          <td>Humor leve misturado com momentos sombrios.</td>
+          <td>Clima intimista, melancólico e motivador.</td>
+          <td>Ambos equilibram emoção com gameplay envolvente.</td>
+        </tr>
+        <tr>
+          <td>Trilha Sonora</td>
+          <td>Composta por Toby Fox, misturando estilos cômicos e épicos.</td>
+          <td>Composta por Lena Raine, atmosférica e emocional.</td>
+          <td>As músicas são parte essencial da experiência.</td>
+        </tr>
+        <tr>
+          <td>Semelhança Geral</td>
+          <td colspan="2">Diferem no gênero, mas ambos focam em narrativa forte e imersiva.</td>
+          <td>Jogos indie marcantes e aclamados pela crítica.</td>
+        </tr>
+      </tbody>
+    </table>
+    <footer>
+  <p class="titulo">© 2025</p>
+  <img src="../imagens/2686689_gatekid3_break-lancer.gif" alt="deltarune footer" class="gif-footer">
+</footer>
+  </main>
+</body>
+</html>
