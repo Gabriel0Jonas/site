@@ -1,7 +1,7 @@
 /*configuração global*/
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(imagens/undertale-background.gif);
+    background-image: url(img/undertale-background.gif);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -173,4 +173,5 @@ body {
 .gif-footer {
   max-width: 100%;   
   height: auto;      
+
 }
