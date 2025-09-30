@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Celeste</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+<body>
+  <main class="panel">
+    <nav class="nav-topo">
+      <a href="../index.html" class="btn-nav">Voltar</a>
+      <a href="pag4.html" class="btn-nav">Próximo</a>
+    </nav>
+  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+    <h2 class="titulo"><b>Celeste</b></h2>
+    <h3 class="subtitulo"><b>História resumida:</b></h3>
+    <p class="subtitulo">Celeste é um jogo de plataforma desenvolvido pela Maddy Makes Games, centrado na jornada de Madeline, uma jovem que decide escalar a Montanha Celeste. À primeira vista, a trama parece apenas sobre a superação de um desafio físico, mas logo se revela como uma metáfora profunda para saúde mental, autoconhecimento e aceitação. A escalada funciona tanto como obstáculo literal quanto como reflexo dos conflitos internos de Madeline.
+<br>
+<br>
+Durante sua jornada, Madeline encontra outros personagens que refletem diferentes aspectos da luta humana. Entre eles estão Theo, um fotógrafo otimista que busca propósito na vida; Granny, uma idosa misteriosa que oferece conselhos enigmáticos; e Oshiro, o zelador de um hotel abandonado, cuja obsessão em manter as aparências o consome. Cada encontro representa um desafio emocional que complementa a escalada física, ampliando o peso simbólico da narrativa.
+<br>
+<br>
+Um dos elementos centrais do jogo é a aparição de Parte de Madeline (também chamada de Badeline), uma versão sombria e hostil da protagonista que encarna suas inseguranças, medos e autocríticas. Inicialmente, Madeline tenta rejeitar e combater essa parte de si, acreditando que precisa eliminá-la para seguir em frente. No entanto, ao longo da montanha, ela percebe que só poderá alcançar o topo se aceitar essa versão interior como parte essencial de sua identidade.
+<br>
+<br>
+O clímax da história ocorre quando Madeline e Badeline se reconciliam, unindo forças em vez de lutar uma contra a outra. Essa aceitação simboliza o equilíbrio entre luz e sombra dentro de si mesma, mostrando que superar desafios pessoais não é negar a dor, mas aprender a conviver com ela. Ao finalmente alcançar o topo da Montanha Celeste, Madeline não apenas conquista uma meta física, mas também um marco emocional: a prova de que, apesar das dificuldades internas, é possível avançar com resiliência, compreensão e autocompaixão.</p>
+<img src="../imagens/celeste.gif" alt="cover celeste" style="width: 50%";>
+<br>
+<br>
+<h4 class="subtitulo"><i>Madeline</i></h4>
+<img src="../imagens/celeste-madeline.gif" alt="madeline" style="width: 50%";>
+<p class="subtitulo">Madeline é a protagonista de Celeste e a personagem jogável. Jovem determinada, mas atormentada por crises de ansiedade, autocrítica e inseguranças, ela decide escalar a Montanha Celeste como uma forma de provar algo a si mesma ainda que não compreenda exatamente o quê. Sua jornada é tanto física quanto emocional, e cada desafio enfrentado na montanha reflete sua luta interior contra a depressão e a sensação de inadequação. Madeline é corajosa, mas vulnerável, e sua maior evolução acontece quando aprende a aceitar suas próprias fragilidades em vez de negá-las.</p>
+<br>
+<br>
+<h4 class="subtitulo"><i>Parte de Madeline (Badeline)</i></h4>
+<img src="../imagens/celeste-badeline.gif" alt="badeline" style="width: 50%";>
+<p class="subtitulo">Badeline é a manifestação sombria da protagonista, nascida dos poderes misteriosos da montanha. Inicialmente, Badeline aparece como antagonista, tentando sabotar Madeline e convencê-la de que não é capaz de alcançar o topo. Ela representa os medos, dúvidas e pensamentos autodestrutivos de Madeline, funcionando como a voz interna que a critica constantemente. Contudo, ao longo da história, fica claro que Badeline não é um inimigo externo, mas uma parte essencial de quem Madeline é. A reconciliação entre as duas é o ponto chave da narrativa, simbolizando autocompaixão e equilíbrio interno.</p>
+<br>
+<br>
+<h4 class="subtitulo"><i>Theo</i></h4>
+<img src="../imagens/celeste-theo.jpg" alt="theo" style="width: 50%";>
+<p class="subtitulo">Theo é um viajante e fotógrafo que Madeline conhece durante sua escalada. Carismático, extrovertido e otimista, ele funciona como contraponto ao peso emocional carregado pela protagonista. Theo compartilha sua própria busca por significado, mostrando que, mesmo com personalidades diferentes, todos enfrentam inseguranças e desafios pessoais. Sua amizade genuína e apoio a Madeline são fundamentais para que ela não desista. Além disso, Theo representa a importância da conexão humana em momentos de crise, lembrando que enfrentar as dificuldades não precisa ser um processo solitário.</p>
+<footer>
+  <p class="titulo">© 2025</p>
+  <img src="../imagens/celeste-meme.gif" alt="celeste footer" class="gif-footer">
+</footer>
+  </main>
+    </div>
+</body>
